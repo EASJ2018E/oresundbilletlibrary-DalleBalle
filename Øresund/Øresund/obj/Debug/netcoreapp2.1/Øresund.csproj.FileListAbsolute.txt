@@ -1,0 +1,12 @@
+C:\Git\Oresund\Øresund\Øresund\bin\Debug\netcoreapp2.1\Øresund.deps.json
+C:\Git\Oresund\Øresund\Øresund\bin\Debug\netcoreapp2.1\Øresund.dll
+C:\Git\Oresund\Øresund\Øresund\bin\Debug\netcoreapp2.1\Øresund.pdb
+C:\Git\Oresund\Øresund\Øresund\bin\Debug\netcoreapp2.1\BilletOpg.dll
+C:\Git\Oresund\Øresund\Øresund\bin\Debug\netcoreapp2.1\BilletOpg.xml
+C:\Git\Oresund\Øresund\Øresund\obj\Debug\netcoreapp2.1\Øresund.csprojAssemblyReference.cache
+C:\Git\Oresund\Øresund\Øresund\obj\Debug\netcoreapp2.1\Øresund.csproj.CoreCompileInputs.cache
+C:\Git\Oresund\Øresund\Øresund\obj\Debug\netcoreapp2.1\Øresund.AssemblyInfoInputs.cache
+C:\Git\Oresund\Øresund\Øresund\obj\Debug\netcoreapp2.1\Øresund.AssemblyInfo.cs
+C:\Git\Oresund\Øresund\Øresund\obj\Debug\netcoreapp2.1\Øresund.csproj.CopyComplete
+C:\Git\Oresund\Øresund\Øresund\obj\Debug\netcoreapp2.1\Øresund.dll
+C:\Git\Oresund\Øresund\Øresund\obj\Debug\netcoreapp2.1\Øresund.pdb
